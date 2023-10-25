@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Dhruv</h1>
 <h3>A passionate and aspiring software developer and database administrator</h3>
 
-- 🌱 I’m currently pursuing **Computer Programming and Analysis Advanced Diploma from Seneca College**
+- 🌱 I’m currently pursuing **Computer Programming and Analysis** from **Seneca College**
 
 - 📫 How to reach me **dhruvv.chawlaa@gmail.com**
 
