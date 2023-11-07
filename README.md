@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Dhruv</h1>
 <h3>A passionate and aspiring software and web developer</h3>
 
-- 🌱 **Computer Science** @ **Seneca College**
+- 🌱 **Computer Science** student @ **Seneca College**
 
 - 📫 How to reach me **dhruvv.chawlaa@gmail.com**
 
