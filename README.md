@@ -1,3 +1,5 @@
+![Black Technology LinkedIn Banner](https://github.com/dhruvchawlaa/dhruvchawlaa/assets/65937412/9caff64e-a6ac-43c1-8b9e-5a1aac72fb75)
+
 <h1>Hi 👋, I'm Dhruv</h1>
 <h3>A passionate and aspiring software and web developer</h3>
 
